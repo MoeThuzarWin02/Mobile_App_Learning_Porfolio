@@ -207,6 +207,8 @@ References used throughout the learning portfolio are documented in the `Referen
 
 Where applicable, sources are cited according to **APA 7th Edition** requirements.
 
+[`References/References.md`](References/Refrences.md)
+
 ---
 
 ##  Academic Integrity
