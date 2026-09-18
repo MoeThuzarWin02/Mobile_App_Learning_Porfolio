@@ -68,7 +68,7 @@ The following Android Developers learning modules are included in this portfolio
 ##  Android Developers Profile
 
 **Android Developer Profile:**  
-[(https://me.developers.google.com/u/me?authuser=2)]
+https://me.developers.google.com/u/me?authuser=2
 
 The profile provides evidence of my completed learning activities and earned badges.
 
