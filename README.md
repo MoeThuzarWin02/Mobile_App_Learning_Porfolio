@@ -1,6 +1,6 @@
-# 📱 Mobile Application Development Learning Portfolio
+#  Mobile Application Development Learning Portfolio
 
-## 👩‍🎓 Student Information
+##  Student Information
 
 | Information | Details |
 |---|---|
@@ -14,7 +14,7 @@
 
 ---
 
-## 📌 About This Repository
+##  About This Repository
 
 This repository is my **individual GitHub Learning Portfolio** for the CDE2313 Mobile Application Development course.
 
@@ -24,7 +24,7 @@ The portfolio demonstrates my understanding of Android development techniques, p
 
 ---
 
-## 🎯 Assessment Overview
+##  Assessment Overview
 
 This assessment focuses on analyzing various techniques used in mobile application development through practical Android development activities.
 
@@ -51,24 +51,24 @@ Throughout the learning process, I aim to:
 
 ---
 
-## 📚 Learning Modules
+##  Learning Modules
 
 The following Android Developers learning modules are included in this portfolio:
 
 | Module | Topic | Status |
 |---|---|---|
-| **Module 1** | [Add Module Name] | 🔄 In Progress |
-| **Module 2** | [Add Module Name] | 🔄 In Progress |
-| **Module 3** | [Add Module Name] | 🔄 In Progress |
-| **Module 4** | [Add Module Name] | 🔄 In Progress |
+| **Module 1** | Your Android First App | ✅ Completed |
+| **Module 2** | Building App UI | ✅ Completed |
+| **Module 3** | Display Lists and Use Material Design | ✅ Completed |
+| **Module 4** | Navigation and App Architecture | ✅ Completed |
 
 > **Note:** Update the module names and status after completing each Android Developers module.
 
 
-## 👨‍💻 Android Developers Profile
+##  Android Developers Profile
 
 **Android Developer Profile:**  
-[Add your Android Developers profile link here]
+https://me.developers.google.com/u/me?authuser=2
 
 The profile provides evidence of my completed learning activities and earned badges.
 
@@ -117,7 +117,7 @@ The repository structure follows the recommended organization for the assessment
 
 ---
 
-## 🧩 Module Documentation
+##  Module Documentation
 
 Each learning module contains the following:
 
@@ -145,7 +145,7 @@ The analysis focuses on **understanding and evaluating techniques rather than si
 
 ---
 
-## 💻 Technologies & Tools
+##  Technologies & Tools
 
 The learning activities in this portfolio involve Android development technologies and tools such as:
 
@@ -161,7 +161,7 @@ The learning activities in this portfolio involve Android development technologi
 
 ---
 
-## 🔀 Version Control
+##  Version Control
 
 GitHub is used to document the development process throughout the semester.
 
@@ -185,7 +185,7 @@ The assessment specifically requires meaningful commit history and discourages g
 
 ---
 
-## 📝 Reflection Summary
+##  Reflection Summary
 
 This learning portfolio has helped me develop practical knowledge of Android application development while strengthening my understanding of software development practices.
 
@@ -201,15 +201,17 @@ A detailed reflection is available in:
 
 ---
 
-## 📖 References
+##  References
 
 References used throughout the learning portfolio are documented in the `References` folder.
 
 Where applicable, sources are cited according to **APA 7th Edition** requirements.
 
+[`References/References.md`](References/References.md)
+
 ---
 
-## ⚠️ Academic Integrity
+##  Academic Integrity
 
 This repository represents my individual learning work for the CDE2313 assessment.
 
@@ -219,7 +221,7 @@ AI tools may be used as learning support for purposes such as clarifying concept
 
 ---
 
-## 📅 Assessment Information
+##  Assessment Information
 
 **Submission:** Week 6  
 **Deadline:** 18 September 2026, by 11:59 PM  
@@ -229,7 +231,7 @@ The GitHub repository must remain accessible until final grades are released.
 
 ---
 
-## ⭐ Portfolio Goal
+##  Portfolio Goal
 
 > **Learn → Implement → Analyze → Reflect → Improve**
 
